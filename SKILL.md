@@ -2,7 +2,7 @@
 name: "租房押金纠纷助手 / Rental Dispute Advisor"
 slug: rental-dispute-advisor
 description: "处理中国租房押金不退、房东扣押金、提前退租、中介费、维修责任、涨租和退租争议；输出事实清单、证据包、赔偿估算、催告函、12315/住建委投诉路径和协商话术。"
-tags: ["租房纠纷", "押金不退", "房东扣押金", "退租押金", "12315", "住建委", "rental", "tenant-rights", "deposit", "china-law", "legal-aid"]
+tags: ["rental-dispute", "deposit-refund", "landlord-deduction", "tenant-rights", "china-rental-law", "complaint-letter", "housing-authority", "12315", "legal-aid"]
 license: "MIT-0"
 version: "1.1.0"
 ---
